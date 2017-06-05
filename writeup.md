@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [img_grey]: ./writeup_images/grey.jpg "Grey"
 [img_edges]: ./writeup_images/edges.jpg "Edges"
 [img_hough]: ./writeup_images/hough.jpg "Hough lines only"
-[img_final]: ./out/resimg.jpg "final"
+[img_final]: ./writeup_images/resimg.jpg "final"
 
 ---
 
