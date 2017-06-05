@@ -56,9 +56,12 @@ Sixth, I modified draw_lines() to first, depending on slope, sort lines into lef
 Below are two example videos (links to youtube):
 
 [![Solid White Right](https://img.youtube.com/vi/WQxYW5EXHyI/0.jpg)](https://www.youtube.com/watch?v=WQxYW5EXHyI)
+
 *Solid White Right*
 
+
 [![Solid Yellow Left](https://img.youtube.com/vi/fGbEjLdKraY/0.jpg)](https://www.youtube.com/watch?v=fGbEjLdKraY)
+
 *Solid Yellow Left*
 
 
